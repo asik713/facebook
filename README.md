@@ -11,3 +11,5 @@
 6.Adding word as status
 
 7.add smileys too
+
+8.add smileys three
