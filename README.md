@@ -3,3 +3,5 @@
 2.stories
 
 3.status
+
+4.uploading photo
