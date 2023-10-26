@@ -9,3 +9,5 @@
 5.Adding aaudio video
 
 6.Adding word as status
+
+7.add smileys too
